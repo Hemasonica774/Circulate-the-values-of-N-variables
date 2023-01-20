@@ -37,6 +37,8 @@ n  =int(input())
 ```
 
 ## Output:
-![OUTPUT](./n%20%20variable.png)
+![image](https://user-images.githubusercontent.com/118361409/213624249-e595a6fe-1b4c-4c0d-8635-94a785395da9.png)
+
+
 ## Result:
 Thus the circulate-the-values-of-N-variables are succesfully executed
